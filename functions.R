@@ -273,7 +273,3 @@ modelling <- function(path, segment, level, numberOfFiles, cookieLimit, urlLimit
   list$y_test <- y_test
   return(list)
 }
-
-#####################
-#### EVALUATION #####
-#####################
